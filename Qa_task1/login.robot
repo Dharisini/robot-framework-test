@@ -25,4 +25,6 @@ Login To Deriv
     Click Element    dt_core_account-switcher_demo-tab    
     Page Should Contain Element    //*[@id="dt_VRTC6202200"]    40
     Click Element    //*[@id="dt_VRTC6202200"]
+
+    #page should not have payout
     
